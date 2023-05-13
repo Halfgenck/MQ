@@ -5,7 +5,7 @@
     <groupId>com.hgc</groupId>
     <artifactId>springboot_rabbitmq-consumer</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>springboot_rabbitmq-consumer</name>
+    <name>springboot-rabbitmq-consumer</name>
     <description>springboot_rabbitmq-consumer</description>
 
     <parent>
