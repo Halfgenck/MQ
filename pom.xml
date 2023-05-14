@@ -13,7 +13,10 @@
         <module>rabbitmq-consumer</module>
         <module>spring-rabbitmq-producer</module>
         <module>spring-rabbitmq-consumer</module>
-        <module>spring-rabbitmq-comfirm-producer</module>
+        <module>spring-rabbitmq-confirm-producer</module>
+        <module>spring-rabbitmq-confirm-consumer</module>
+        <module>spring-rabbitmq-ttl-producer</module>
+        <module>spring-rabbitmq-ttl-consumer</module>
     </modules>
 
 
